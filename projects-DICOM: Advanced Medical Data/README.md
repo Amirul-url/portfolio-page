@@ -1,1 +1,9 @@
+Z-MedVision: Advanced Medical Viewer is a powerful application to support healthcare professionals in viewing and analyzing medical images in the DICOM format. The system is built upon PyQt5 for the graphical interface and VTK for 3D rendering. It is envisaged to provide an easy-to-use environment for the analysis of medical imaging. Support for multiple DICOM datasets will enable users to work with a variety of medical images, including but not limited to CT, MRI, and X-rays, while maintaining smooth interaction with the data.
 
+The viewer provides enhanced functionalities such as 3D volume rendering, which allows users to rotate the images in three dimensions. Colour, brightness, opacity, and contrast can be modified to improve the quality of the images viewed. The system also contains measurement tools that allow for the calculation of distances both in millimeters and pixels, which is important during the analysis of different pathological conditions. Basic transformations such as rotation, scaling, and translation of the models are supported, allowing for full control of the visualized data.
+
+Z-MedVision's interactive camera controls zoom, rotate, and pan models to ensure comprehensive exploration of the images. This interface is designed to be very user-friendly, ensuring that essential tools such as saving and loading datasets, display settings, and resetting views are at a convenient reach. A help dialog is integrated within the system for guiding through its features.
+
+By employing GPU-accelerated rendering, Z-MedVision handles large datasets efficiently, assuring fast performance even when complex 3-D models are involved. Overall, this system enhances medical image analysis by providing a powerful, intuitive toolset that enables accurate diagnosis and treatment planning.
+
+<img width="796" height="790" alt="image" src="https://github.com/user-attachments/assets/a57037a6-c04a-45af-be8e-48565ace03de" />
