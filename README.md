@@ -9,7 +9,7 @@ Interested in Computer Vision, Image Processing, Business strategy, Graphic & Di
 
 Final year of Bachelor of Science in Mathematics Computer Graphics student at UMS (CGPA 3.26). Specializing in image processing, computer graphics, and data visualization.
 
-**Research**: FYP - Penambahbaikan Kualiti Imej Dalam Air using Dark Channel Prior + CNN (IfNet, WBNet).  
+**Research**: FYP - Penambahbaikan Kualiti Imej Dalam Air Menggunakan Teknik Prior Saluran Gelap Dan Rangkaian Neural Konvolusi  
 **Supervisor**: Prof. Dr. Abdullah Bade, Universiti Malaysia Sabah.
 
 [📄 Full CV][Curriculum Vitae (Amirul Aqmal).pdf](https://github.com/user-attachments/files/26039367/Curriculum.Vitae.Amirul.Aqmal.pdf)
@@ -28,7 +28,7 @@ Final year of Bachelor of Science in Mathematics Computer Graphics student at UM
 
 ## Featured Projects
 
-### 1. FYP - Penambahbaikan Kualiti Imej Dalam Air
+### 1. FYP - Penambahbaikan Kualiti Imej Dalam Air Menggunakan Teknik Prior Saluran Gelap Dan Rangkaian Neural Konvolusi
 Underwater image enhancement using DCP + CNN fusion (IfNet, WBNet). Evaluated with UIQM/PCQI metrics.
 
 [View Project](https://github.com/Amirul-url/portfolio-page/tree/488c291dab8ccc0850414ac6f0c847b596a7c32c/FYP-PENAMBAHBAIKAN%20KUALITI%20IMEJ%20DALAM%20AIR%20MENGGUNAKAN%20GABUNGAN%20TEKNIK%20PRIOR%20SALURAN%20GELAP%20DAN%20RANGKAIAN%20NEURAL%20KONVOLUSI)
